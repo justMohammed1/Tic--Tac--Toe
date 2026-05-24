@@ -6,9 +6,7 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 # 🌐 Live Demo
 
 Play the game here:  
-[Click Here To Play]
-
-tic-tac-tomh.netlify.app
+[Click Here To Play]tic-tac-tomh.netlify.app
 
 ---
 
